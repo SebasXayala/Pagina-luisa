@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-color: #111111; background-image: url("file:///C:/Users/Luisa%20Fernanda/Documents/TRABAJOS%20U/6to%20Semestre/Dise%C3%B1o%20Digital/Cuento%20Terror/img/fondo%20oscuro.jpg"); background-repeat: no-repeat; background-size: 1850px 980px; float: left; padding: 0 0 0 0; box-sizing: border-box;}
+
+.rectangulotitulo{width: 1150px; height: 50px; background-color: #262626; padding: 0 0 0 350px; box-sizing: border-box; margin: 0 0 0 350px; }
+.fondototal{width: 1820px; height: 970px; background-color: #111111; float: left; position: absolute; padding: 20px 0 0 400px; box-sizing: border-box; opacity: 20%;}
+.primerapagina{width: 500px; height: 700px; background-color: #262626; float: left; margin: 70px 50px 0 400px; padding: 40px 40px 40px 40px; box-sizing: border-box;}
+.segundapagina{width: 500px; height: 700px; background-color: #262626; float: left; margin: 70px 0 0 0; padding: 20px 40px 40px 40px; box-sizing: border-box;}
+
+h1{color: #CACACA;}
+p{color: #CACACA; line-height: 25px; text-align: justify;}
+h3{color: #8A8A8A; ;}
+p2{color:#4F4F4F; float: left;}
+
+.tape{position: absolute; margin: -35px 0 0 150px;}
+.tape2{position: absolute; margin: -30px 0 0 150px;}
